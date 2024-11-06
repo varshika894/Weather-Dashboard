@@ -89,7 +89,6 @@ li{
   margin-bottom: 10px;
   margin-left: -40px;
 }
-/*Large devices (desktops, 992px and up) */
 @media only screen and (max-width:992px) {
   .navbar .header-text{
     padding-bottom: 0;
@@ -105,22 +104,4 @@ li{
     text-align: center;
   }
 }
-/*Small devices (landscape phones, 320px and up)*/
-@media only screen and (max-width:320px) {
-.col-12 .box {
-  width: 100%;
-}
-.container{
-  width: 100%;
-}
-.navbar .footer .col-4 .row .nav{
-  width: 100%;
-  height:auto;
-}
-.header-text{
-  font-size: 16px;
-}
-}
-#days{
-margin-left: -25px;
-}
+
